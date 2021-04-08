@@ -13,7 +13,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title='Home' />
     <HeroMedia
-      heroTitle='Data Egineering & Machine Learning Consultants'
+      heroTitle='Data Engineering & Machine Learning Consultants'
       heroInfo='We help companies build innovative and reliable products, take advantage of their data, and innovate faster with Machine Learning and Data Engineering technologies'
       heroBtnTitle="Let's talk"
       slug='#contact'
