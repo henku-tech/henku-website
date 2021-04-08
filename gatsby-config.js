@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Henku Website',
-    description: 'Consultoria em data Science e projetos de machine learning.',
+    description: 'We are Henku, a consultancy in data science and machine learning projects',
     author: '@laurielmesquita'
   },
   plugins: [
